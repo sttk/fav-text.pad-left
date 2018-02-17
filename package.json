@@ -1,6 +1,6 @@
 {
   "name": "@fav/text.pad-left",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pads characters on left side of a source string.",
   "main": "index.js",
   "files": [
